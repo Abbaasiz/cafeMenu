@@ -1,1 +1,1 @@
-# cafeMenu
+Menu page for a cafe
